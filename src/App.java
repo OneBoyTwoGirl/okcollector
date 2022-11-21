@@ -1,16 +1,17 @@
 /*
  * File: App.java
- * Created Date: 2021-09-24 10:19:52
- * Author: Sallai Andras
- * Github: https://github.com/andteki
+ * Created Date: 2021-09-24 10:39:45
+ * Author: Serényi Zsolt Ödön
+ * Github: https://github.com/OneBoyTwoGirl
  * -----
- * Last Modified: 2021-09-24
- * Modified By: Sallai Andras
+ * Last Modified: 2022-11-21
+ * Modified By: Serényi Zsolt Ödön
  * -----
- * Copyright (c) 2021 Sallai Andras
+ * Copyright (c) 2022 Serényi Zsolt Ödön
  * 
  * GNU GPL v2
  */
+
 
 import controllers.CollectorController;
 import controllers.MainController;
